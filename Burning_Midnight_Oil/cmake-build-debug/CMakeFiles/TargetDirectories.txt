@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Binary search/Burning_Midnight_Oil/cmake-build-debug/CMakeFiles/Burning_Midnight_Oil.dir
+C:/Users/pc/CLionProjects/Binary search/Burning_Midnight_Oil/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Binary search/Burning_Midnight_Oil/cmake-build-debug/CMakeFiles/rebuild_cache.dir
