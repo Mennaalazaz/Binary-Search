@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Binary search/TheStrictTeacher/cmake-build-debug/CMakeFiles/TheStrictTeacher.dir
+C:/Users/pc/CLionProjects/Binary search/TheStrictTeacher/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Binary search/TheStrictTeacher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
