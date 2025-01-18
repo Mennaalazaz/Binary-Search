@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Binary search/Magic Powder/cmake-build-debug/CMakeFiles/Magic_Powder.dir
+C:/Users/pc/CLionProjects/Binary search/Magic Powder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Binary search/Magic Powder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
